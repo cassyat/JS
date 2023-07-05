@@ -1,0 +1,81 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "8-loops",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${file}\\8-loops.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "7-condicionais",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${file}\\7-condicionais.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "6-listas",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${file}\\6-listas.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "5-atribuicaoVariaveis.js",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${file}\\5-atribuicaoVariaveis.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "4-conversãpDeTipos.js",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${file}\\4-conversãoDeTipos.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "3-operacoesAritimeticas.js",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${file}\\3-operacoesAritimeticas.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "2-trabalhandoComVariaveis.js",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${file}\\2-trabalhandoComVariaveis.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "1-MeuprimeiroprogramaJS.js",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${file}\\1-MeuprimeiroprogramaJS.js"
+        },
+        
+    ]
+}
